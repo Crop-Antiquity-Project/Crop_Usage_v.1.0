@@ -1,4 +1,4 @@
-﻿Sources Used for all Crops (Standard)
+﻿Sources Used for All Crops (Standard):
 CABI. 2021. Invasive Species Compendium. [online]. Available from: https://www.cabi.org/ISC [Accessed February 2021].
 
 
@@ -8,9 +8,7 @@ PFAF. 2021. Plants for a Future Database. [online]. Available from: https://pfaf
 Wikipedia. 2021. [online]. Available from: https://en.wikipedia.org/wiki/Main_Page [Accessed February 2021].
 
 
-Additional Sources Used
-
-
+Additional Sources Used:
 1. Anwar, F., Qadir, R. and Ahmad, N. (2020). Cold pressed okra (Abelmoschus esculentus) seed oil. In: M.F. Ramadan, ed. Cold Pressed Oils. Cambridge: Academic Press. pp. 3019-314. doi: 10.1016/b978-0-12-818188-1.00027-x.
 
 
@@ -48,6 +46,7 @@ Additional Sources Used
 
 
 13. Oyen, L.P.A. (2007). Crambe hispanica L. Record from PROTA4U. H.A.M. van der Vossen, G.S. Mkamilo, eds. PROTA (Plant Resources of Tropical Africa / Ressources végétales de l’Afrique tropicale). Wageningen, Netherlands. [online]. Available from: https://uses.plantnet-project.org/en/Crambe_hispanica_(PROTA) [cited 2021 Mar 13]                
+
 14. Petterson, D.S. (2004). Lupin. In: C. Wrigley, ed. Encyclopedia of Grain Science. pp. 166-174. doi: 10.1016/B0-12-765490-9/00083-5. 
 
 
