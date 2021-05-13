@@ -14,19 +14,33 @@ the database itself (Crop Usage v 1.0.csv).
 Key of column headers
 
 Common_name      common name of crop species
+
 Species_name      crop taxon binomial 
-Minimum_time_cultivation      earliest evidence of exploitation under cultivation (y.a.)         
+
+Minimum_time_cultivation      earliest evidence of exploitation under cultivation (y.a.) 
+
 Primary_use (Historic)      original primary use of crop species
+
 Secondary_use      secondary use of crop species
+
 Current_use      current primary use of crop species
+
 No_Food_Uses      number of food uses found for crop species
+
 No_Non_Food_Uses      number of non-food uses found for crop species
+
 No_Total_Uses      total number of uses found for each crop
+
 Multi-uses_codes      the uses found for each crop species
+
 Biogeographic_Region      the ecoregion of each crops wild progenitor
+
 Major(1)/Minor(0)      whether a crop is considered major (1) or minor (0) - crops included in FAOSTAT data are considered major and all others are considered minor
+
 Area_Grown_(ha)      the total area of cultivation for each crop in hectares
+
 Sources_additional_uses      literature other than the standard sources used to get data on crop usage
+
 Access_Date      the date sources were accessed for each crop
 
 
